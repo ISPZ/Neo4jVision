@@ -1,9 +1,5 @@
 # Neo4jVision
-# Neo4jVision
----
-highlight: a11y-dark
-theme: smartblue
----
+
 # 0 版本
 ```
 python == 3.8.0
